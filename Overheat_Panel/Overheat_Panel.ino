@@ -1,6 +1,6 @@
 // Overheat Panel by TomorrowX3
 // Description: 9 switch, 9 LED interface designed for use with Eve Online (can also be used as generic input)
-// Toggling switcheds causes LEDs to flash and keyboards input sent.
+// Toggling switches causes LEDs to flash and keyboards input sent.
 // Code for Arduino Leonardo for use with Arduino IDE. Download here: https://www.arduino.cc/en/Main/Software
 
 // This is quickly / poorly hacked together code by an Arduino beginner hobbyist, it works but is not efficient.
