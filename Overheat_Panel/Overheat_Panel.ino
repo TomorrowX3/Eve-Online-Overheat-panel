@@ -3,6 +3,9 @@
 // Toggling switcheds causes LEDs to flash and keyboards input sent.
 // Code for Arduino Leonardo for use with Arduino IDE. Download here: https://www.arduino.cc/en/Main/Software
 
+// This is quickly / poorly hacked together code by an Arduino beginner hobbyist, it works but is not efficient.
+// Lots of room for improvement.
+
 #include <Keyboard.h>
 
 // Keyboard buttons. Change these (1 to 9) to match your in game EVE Overload Keyboard shortcuts (or which ever toggles you'd like). 
